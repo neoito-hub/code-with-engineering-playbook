@@ -1,9 +1,9 @@
 site_name: Code With Engineering Playbook
-site_url: https://microsoft.github.io/code-with-engineering-playbook
+site_url: https://neoito-hub.github.io/code-with-engineering-playbook
 site_description: CSE Code With Engineering Playbook
-site_author: Microsoft CSE
+site_author: NEOITO CSE
 
-repo_url: https://github.com/microsoft/code-with-engineering-playbook/
+repo_url: https://github.com/neoito-hub/code-with-engineering-playbook/
 edit_uri: ""
 
 theme:
@@ -13,8 +13,8 @@ theme:
     text: Roboto
   palette:
     primary: black
-  logo: resources/ms_icon.png
-  favicon: resources/ms_icon.png
+  logo: resources/neo_logo.jpeg
+  favicon: resources/neo_logo.jpeg
   features:
     - navigation.instant
     - navigation.indexes
